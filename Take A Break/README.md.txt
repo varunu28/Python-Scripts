@@ -1,7 +1,10 @@
 #Take A Break
 
 This script is easy to run. Just download it to your system.
-I have coded it initially to keep 3 study intervals of 30 minutes each
+
+I have coded it initially to keep 3 study intervals of 30 minutes each.
+
+
 If you want to do some modifications then follow the following steps:
 - To increase or decrease the value of your study interval just change the 
   value inside the time.sleep("Your Time Here") function.
