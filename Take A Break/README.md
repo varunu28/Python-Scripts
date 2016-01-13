@@ -14,4 +14,5 @@ If you want to do some modifications then follow the following steps:
   change the url in webbrowser.open("LINK HERE") function
 
 Hope this script would help you in planning your study sessions in a better way
-and hope you get the best out of them.
+and hope you get the best out of them
+
