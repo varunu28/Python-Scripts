@@ -15,7 +15,13 @@ def show_list(item):
         print("You have not added anything in the list till now")
 
 shop_list =[]
+
+print("Welcome to the shopping list script")
+print("Type HELP when you need help for menu items")
+print("Type SHOW when you need to see the items in your list")
+print("Type DONE when you are finished entering and want to see your final list")
 print("Please enter the items in shopping your list")
+
 inp = input()
 while inp != "DONE":
   if inp == "HELP":
